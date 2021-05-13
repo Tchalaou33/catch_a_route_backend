@@ -6,7 +6,9 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-# SEED DATA
-# blue = Route.create(color: "Blue")
-# red = Route.create(color: "Red")
-# yellow = Route.create(color: "Yellow")
+# SEED DATA DESTINIATION
+# food_court = Route.create(name: "Food Court")
+# play_area = Route.create(name: "Play Area")
+# zara = Route.create(name: "Zara")
+
+# SEED DATA FOR ROUTES
