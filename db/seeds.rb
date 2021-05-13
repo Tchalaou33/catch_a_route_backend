@@ -5,3 +5,8 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+# SEED DATA
+# blue = Route.create(color: "Blue")
+# red = Route.create(color: "Red")
+# yellow = Route.create(color: "Yellow")
