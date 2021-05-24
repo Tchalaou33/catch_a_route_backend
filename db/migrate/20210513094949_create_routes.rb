@@ -3,7 +3,7 @@ class CreateRoutes < ActiveRecord::Migration[6.0]
     create_table :routes do |t|
       t.string :color
       t.string :description
-      t.string :image-url
+      t.string :image_url
       t.integer :destination_id
 
       t.timestamps
