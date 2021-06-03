@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class RouteTest < ActiveSupport::TestCase
+class MappTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end

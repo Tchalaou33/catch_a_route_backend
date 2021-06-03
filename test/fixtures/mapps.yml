@@ -2,6 +2,10 @@
 
 one:
   color: MyString
+  description: MyString
+  destination_id: 
 
 two:
   color: MyString
+  description: MyString
+  destination_id: 
