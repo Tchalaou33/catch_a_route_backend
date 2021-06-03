@@ -1,3 +1,3 @@
 class Route < ApplicationRecord
-    # belongs_to :destinations
+     belongs_to :destinations
 end

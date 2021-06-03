@@ -7,9 +7,9 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 # SEED DATA DESTINIATION
-food_court = Route.create(name: "Food Court")
-play_area = Route.create(name: "Play Area")
-zara = Route.create(name: "Zara")
+food_court = Destination.create(name: "Food Court")
+play_area = Destination.create(name: "Play Area")
+zara = Destination.create(name: "Zara")
 
 # SEED DATA FOR ROUTES
-Destinations.create(color: "Blue", description: "This route ends at the food court at the Fashion Square Mall", image_url: "", destination_id: food_court.id)
+Route.create(color: "Blue", description: "This route ends at the food court at the Fashion Square Mall", image_url: "https://images.app.goo.gl/sXE8F1cqSiV9aMVf9", destination_id: food_court.id)
